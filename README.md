@@ -21,20 +21,5 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitcloneid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-### 🛠️ Current Projects
-- 📚 Buku Tamu Digital – ASP.NET Web API + JWT + WebSocket 
-- 🎬 Aplikasi Pembelian Tiket Film – Jetpack Compose + SharedPreferences + Retrofit
-- 🔍 Eksplorasi Driver Exploits dan Kernel-Level Anti-Cheat
-
----
-
 ### 📫 Reach Me
 - ✉️ havidabdilah02@gmail.com
